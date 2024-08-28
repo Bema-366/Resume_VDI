@@ -10,8 +10,7 @@ NIM: 122450064 / Matkul: Visualisasi Data dan Informasi
 Dalam hal ini kita dapat mengubahnya menajdi suatu bentuk grafik dan memberikan warna yang dapat mepermudah penyapaian informasi dari data, sebagai contoh:
 | Nama       | Gambar    |
 |------------|------------|
-| Bar Chart   | ![Bar Chart](https://datavizproject.com/wp-content/uploads/types/Multiple-Series-3D-Bar-Chart-300x300.png)
-   |
+| Bar Chart   | ![Bar Chart](https://datavizproject.com/wp-content/uploads/types/Multiple-Series-3D-Bar-Chart-300x300.png)|
 | Heatmap  | ![ Heatmap](https://datavizproject.com/wp-content/uploads/types/Heat-Map-300x300.png)   |
 |  Scatter Plot  | ![Scatter PLot](https://datavizproject.com/wp-content/uploads/types/Scatter-Plot-300x300.png)  | 
 
