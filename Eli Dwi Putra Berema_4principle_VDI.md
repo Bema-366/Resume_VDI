@@ -17,12 +17,8 @@ NIM: 122450064 / Matkul: Visualisasi Data dan Informasi
 * Never Deceive the Receiver: Ethical design is critical—users must be able to trust what they see and interact with, without being misled by false representations or manipulative interfaces.
 
 ## Good Visualization
- Gambar       |
-------------
 |![Viz 1](https://live.staticflickr.com/4147/5083416128_e5e1b3807f_k.jpg)|
     Visualisasi gelas anggur ini secara efektif mematuhi empat prinsip desain. Pertama, ia menyeimbangkan bentuk dan fungsi dengan menciptakan tata letak yang menarik secara visual namun sangat informatif. Setiap bagian diagram memiliki justifikasi, dengan setiap pilihan memiliki tujuan yang jelas—mulai dari ukuran dan bentuk gelas hingga padanannya dengan anggur tertentu. Desainnya mudah diakses dan intuitif, berkat kategori terstruktur dan tipografi yang mudah dibaca, sehingga mudah diikuti. Terakhir, diagram tetap jujur ​​dengan menyajikan informasi secara akurat tanpa menyesatkan pemirsa.
- Gambar       |
-------------
 |![Viz 1](https://viz.bible/static/474e886b5aa8e1e0293e8dbac84e1f86/7b348/Periods-Acts.webp)|
    Visualisasi garis waktu Kisah Para Rasul (Acts of the Apostles) ini menunjukkan penggunaan prinsip desain yang sangat baik. Visualisasi ini menyeimbangkan bentuk dan fungsi dengan menyajikan peristiwa dan peserta dalam tata letak terstruktur dan berkode warna yang menarik secara visual dan mudah ditafsirkan. Setiap pilihan desain memiliki alasan yang kuat, dengan warna dan garis yang mewakili periode, peristiwa, dan peserta utama. Aksesibilitasnya terlihat jelas dalam tata letaknya yang jelas, sehingga mudah diikuti oleh pemirsa. Terakhir, visualisasi ini tetap jujur, mencerminkan garis waktu secara akurat tanpa distorsi, sehingga menjadikannya alat pendidikan yang kredibel.
 ## Bad Visualization
